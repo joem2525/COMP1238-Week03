@@ -6,3 +6,29 @@
 #### Description:
 This is a sample git repository.
 
+# Number row characters
+!
+@
+\#
+$
+%
+^
+&
+*
+(
+)
+_
++
+
+# Links
+
+[Google](https://www.google.com)
+[Yahoo](https://www.yahoo.ca) 
+
+# Experiements
+:bowtie:
+😸
+👯‍♂️
+😆
+
+
