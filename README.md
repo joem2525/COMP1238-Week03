@@ -21,9 +21,11 @@ _
 +
 
 # Links
-
-[Google](https://www.google.com)
-[Yahoo](https://www.yahoo.ca) 
+Here is a list of my **favorite** links: <br>
+Hyperlinking to my favorite sites <br>
+- [Google](https://www.google.com)
+- [Yahoo](https://www.yahoo.ca)
+- [Slashdot](https://www.slashdot.org)
 
 # Experiements
 :bowtie:
