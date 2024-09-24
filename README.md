@@ -28,9 +28,19 @@ Hyperlinking to my favorite sites <br>
 - [Slashdot](https://www.slashdot.org)
 
 # Experiements
-:bowtie:
 😸
 👯‍♂️
 😆
 
+## Keyboard shortcuts
+Shortcuts I frequently use when using Macbook: 
+- Command-C (copy)
+- Command-V (paste)
+- Command-Shift-4 (screenshot)
+- Command-Shift-5 (screenshot settings)
+
+Shortcuts I frequently use when using Windows: 
+- Windows key-X (display Start menu)
+- Windows key-L (lock screen)
+- Windows key-Shift-S (screenshot)
 
