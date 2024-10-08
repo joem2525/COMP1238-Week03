@@ -8,5 +8,5 @@
 + nvim 
 + ps
 + top 
-
++ vim
 
