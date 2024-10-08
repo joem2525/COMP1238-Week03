@@ -6,6 +6,10 @@
 #### Description:
 This is a sample git repository.
 
+
+#### Command Line Interface file
+[CLI commands](docs/cli.md)
+
 # Number row characters
 !
 @
